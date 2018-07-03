@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "931882764509",
+    "firebase_url": "https://pistola-crew.firebaseio.com",
+    "project_id": "pistola-crew",
+    "storage_bucket": "pistola-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931882764509:android:f776a3354988984f",
+        "android_client_info": {
+          "package_name": "com.evilgeniuses.pistola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931882764509-fp258irs7fpnvhbac55dqkfb7sm8o492.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evilgeniuses.pistola",
+            "certificate_hash": "0f550494e44b4e398a3d18135dddc8d9b1193bb5"
+          }
+        },
+        {
+          "client_id": "931882764509-l22rr1af6b0vhhmbdd9e518siaatugo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrUa_euDWXOLW_cjay-Cj6LOI7gtE8RhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931882764509-l22rr1af6b0vhhmbdd9e518siaatugo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
