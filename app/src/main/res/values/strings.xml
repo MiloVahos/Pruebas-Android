@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Pistola</string>
+
+    <!--STRINGS REQUISITO DE FACEBOOK-->
+    <string name="facebook_app_id">1774058102670239</string>
+    <string name="fb_login_protocol_scheme">fb1774058102670239</string>
+
+    <!-- STRINGS PARA INICIAR SESIÓN ACTIVITY-->
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Iniciar">Iniciar Sesión</string>
+    <string name="Registrarse">Registrase</string>
+
+
 </resources>
