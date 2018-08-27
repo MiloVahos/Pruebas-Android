@@ -24,7 +24,7 @@ class IniciarSesionActivity : AppCompatActivity() {
         var BIniciarSesion  = findViewById(R.id.BIniciarSesion) as Button;
         var BRegistrarse    = findViewById(R.id.BRegistrase)as Button;
 
-        
+
 
     }
 
